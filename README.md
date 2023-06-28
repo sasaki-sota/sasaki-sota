@@ -2,7 +2,6 @@
 ### if you have a mind to do something, you can do it!
 #### Software Engineer.
 <p>------------------------------------</p>
-<p>TIL: https://github.com/sasaki-sota/TIL</p>
 <p>Profile: https://dev-sota.com</p>
 <p>Acvation: https://acvation.com</p>
 <p>Tech Blog: https://developer-souta.com</p>
