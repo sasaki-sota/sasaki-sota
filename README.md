@@ -1,6 +1,5 @@
-# Thank you for watching. 💻
-### if you have a mind to do something, you can do it!
-#### Software Engineer.
+> [!NOTE]  
+> Software Enginner.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sasaki-sota&theme=dracula)
 [![](https://github-profile-trophy.vercel.app/?username=sasaki-sota&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
